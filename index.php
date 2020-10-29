@@ -1,16 +1,11 @@
 <?php  require_once 'header.php'; ?>
 
 <body>
-    <input class="c-checkbox" type="checkbox" id="checkbox">
-    <div class="c-formContainer">
-        <form class="c-form" action="">
-            <input class="c-form__input" placeholder="Trouver un gîte" type="text" required>
-            <label class="c-form__buttonLabel" for="checkbox">
-                <button class="c-form__button" type="button">Rechercher</button>
-            </label>
-            <label class="c-form__toggle" for="checkbox" data-title="Recherche"></label>
-        </form>
+    <div class="main-container">
+        <h1>Bienvenue sur Ô'GÎTES</h1>
+        <h3>Trouvez votre lieu favori parmis la selection des meilleurs gîtes de Guadeloupe</h3>
     </div>
+    
 </body>
 
 <?php require_once 'footer.php'; ?> 
