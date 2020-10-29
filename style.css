@@ -1,0 +1,43 @@
+@import "scss/global.scss";
+
+/*
+Style du header de la page
+*/
+* {
+    font-family: 'Montserrat';
+    color: #0E0E10;
+}
+
+header {
+    width: 100%;
+    height: 70px;
+}
+
+header h1 {
+    position: absolute;
+    padding: 3px;
+    float: left;
+    margin-left: 2%;
+    margin-top: 10px;
+}
+
+header ul {
+    width: auto;
+    float: right;
+    margin-top: 8px;
+}
+
+header li {
+    display: inline-block;
+    padding: 15px 15px;
+}
+
+header a {
+    text-align: center;
+    text-decoration: none;
+}
+
+/*
+Style du body de la page
+*/
+
