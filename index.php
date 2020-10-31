@@ -2,10 +2,14 @@
 
 <body>
     <div class="main-container">
-        <h1>Bienvenue sur Ô'GÎTES</h1>
-        <h3>Trouvez votre lieu favori parmis la selection des meilleurs gîtes de Guadeloupe</h3>
+        <div class="describ">
+            <h1>Trouvez votre lieu favori parmi une selection des meilleurs gîtes de Guadeloupe</h1>
+        </div>
+        
+        <div class="searchbox">
+            <?php include 'assets/input.php'; ?>
+		</div>
     </div>
-    
 </body>
 
 <?php require_once 'footer.php'; ?>

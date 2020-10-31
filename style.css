@@ -1,5 +1,3 @@
-@import "scss/global.scss";
-
 /* montserrat-regular - latin */
 @font-face {
     font-family: 'Montserrat';
@@ -51,7 +49,16 @@ header a {
     text-decoration: none;
 }
 
-/*
-Style du body de la page
-*/
+body {
+    overflow: hidden;
+}
 
+.searchbox {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.describ {
+    text-align: center;
+}
