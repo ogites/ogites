@@ -8,7 +8,11 @@
         
         <div class="searchbox">
             <?php include 'assets/input.php'; ?>
-		</div>
+        </div>
+        <br/>
+        <div class="slideshow">
+            <?php include 'assets/slideshow.php'; ?>
+        </div>
     </div>
 </body>
 

@@ -6,14 +6,15 @@
         <title>Ô'GÎTES</title>
         <link rel="stylesheet" type="text/css" href="style.css"/>
         <link rel="stylesheet" href="scss/searchbox.scss"/>
+        <script src="js/slideshow.js"></script>
     </head>
     <header>
-        <h1>OGITES</h1>
+        <h1>Ô'GÎTES</h1>
         <nav id="top-menu">
             <ul>
                 <li><a href="#">Accueil</a></li>
-                <li><a href="#">Presentation</a></li>
-                <li><a href="#">A propos</a></li>
+                <li><a href="#">Présentation</a></li>
+                <li><a href="#">À propos</a></li>
                 <li><a href="login-system/register.php">Connexion</a></li>
             </ul>
         </nav>
