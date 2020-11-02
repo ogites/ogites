@@ -6,7 +6,7 @@
         <title>Ô'GÎTES</title>
         <link rel="stylesheet" type="text/css" href="style.css"/>
         <link rel="stylesheet" href="scss/searchbox.scss"/>
-        <script src="js/slideshow.js"></script>
+        <link rel="stylesheet" href="scss/slideshow.scss"/>
     </head>
     <header>
         <h1>Ô'GÎTES</h1>

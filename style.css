@@ -67,19 +67,3 @@ body {
 .describ {
     text-align: center;
 }
-
-.slideshow {
-    height: 400px;
-    width: 750px;
-    overflow: hidden;
-    box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.4);
-}
-.slideshow .images {
-    height: 100%;
-    width: 100%;
-}
-
-.images img {
-    height: 100%;
-    width: 100%;
-}
