@@ -3,9 +3,10 @@
   width:575px;
   border-radius:30px;
   border:1px solid #dcdcdc;
+  transition: box-shadow .3s;
 }
 .bar:hover{
-  box-shadow: 1px 1px 8px 1px #dcdcdc;
+  box-shadow: 0 0 11px rgba(33,33,33,.2);
 }
 .bar:focus-within{
   box-shadow: 1px 1px 8px 1px #dcdcdc;
@@ -35,8 +36,9 @@
 }
 
 .icon{
-  height:22px;
-  position:relative;
+  height:23px;
+  width: 23px;
+  position: relative;
   top:5px;
   left:10px;
 }
