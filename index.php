@@ -9,9 +9,17 @@
         <div class="searchbox">
             <?php include 'assets/input.php'; ?>
         </div>
+
         <br/>
+
         <div class="slideshow">
             <?php include 'assets/slideshow.php'; ?>
+        </div>
+
+        <br/><br/><br/><br/><br/><br/>
+        
+        <div class="scrolldown">
+            <?php include 'assets/scrolldown.php'; ?>
         </div>
     </div>
 </body>

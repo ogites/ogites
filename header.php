@@ -7,6 +7,7 @@
         <link rel="stylesheet" type="text/css" href="style.css"/>
         <link rel="stylesheet" href="scss/searchbox.scss"/>
         <link rel="stylesheet" href="scss/slideshow.scss"/>
+        <link rel="stylesheet" href="scss/scrolldown.scss"/>
     </head>
     <header>
         <h1>Ô'GÎTES</h1>
